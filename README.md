@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sds3434
-- 👀 I’m interested in ... healthcare
-- 🌱 I’m currently learning ... data science and business analytics
-- 💞️ I’m looking to collaborate on ... neuroscience topics, python, sql, etc 
-- 📫 How to reach me ... sydneystollebsa@gmail.com, https://www.linkedin.com/in/sydney-stolle/ , https://www.kaggle.com/sydneystolle 
-
-<!---
-sds3434/sds3434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sydney Stolle (@sds3434)
+EDI Programmer Analyst at Bay Bridge Administrators, focused on HIPAA-aligned EDI (834, 837, 835), documentation, QA, troubleshooting, and clear handoffs in a regulated healthcare environment.
+Previously a Data Analyst at Clinical Pathology Laboratories, where I analyzed large patient and operational datasets, automated reporting (including work that improved sales-support efficiency and saved leadership time), and partnered across teams on timely analytics. Earlier roles included high-volume clinical laboratory operations with strict SOPs, quality controls, and confidentiality.
+Completed the postgraduate program in Data Science and Business Analytics at UT McCombs and earned a B.S.A. in Neuroscience from UT Austin. Academic and practicum projects included A/B testing and statistical analysis, predictive modeling, and healthcare projections using Python, SQL, R, and Tableau.
+Open to collaborating on data-heavy problems in healthcare and adjacent domains—especially where neuroscience, Python, SQL, and rigorous analysis meet.
+Contact: sydneystollebsa@gmail.com · linkedin.com/in/sydney-stolle
